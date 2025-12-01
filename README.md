@@ -1,3 +1,6 @@
+Minimal 3D glassmorphism banner with floating notes, gradient lighting, modern UI elements, clean typography, and soft shadows. Theme: futuristic productivity app. Text: “Notes App – React Project”.
+
+
 # notes-ui-react
 A simple but polished note-taking app built with React. The goal was to keep it clean, fast and pleasant to use. You can create notes, edit them, pin important ones, add tags, search across content, and view notes in a markdown modal.
 🚀 Features
